@@ -1,0 +1,11 @@
+E:\cscode\MyGalaxy\MyGalaxy\bin\Debug\MyGalaxy.exe.config
+E:\cscode\MyGalaxy\MyGalaxy\bin\Debug\MyGalaxy.exe
+E:\cscode\MyGalaxy\MyGalaxy\bin\Debug\MyGalaxy.pdb
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.csprojAssemblyReference.cache
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.mainForm.resources
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.OTPForm.resources
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.Properties.Resources.resources
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.csproj.GenerateResource.cache
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.csproj.CoreCompileInputs.cache
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.exe
+E:\cscode\MyGalaxy\MyGalaxy\obj\Debug\MyGalaxy.pdb
